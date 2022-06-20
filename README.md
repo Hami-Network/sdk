@@ -1,1 +1,1 @@
-# lokiswap-sdk
+# hami-sdk
